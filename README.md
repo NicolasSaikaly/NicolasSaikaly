@@ -5,7 +5,7 @@ at Polytech Paris-Saclay (2025–2028).
 
 The CEA (French Alternative Energies and Atomic Energy Commission) is a public research organization
 working on nuclear and low-carbon energy, defense and advanced technologies.
-I work in its Energy Division, where simulation software supports nuclear engineering studies.
+I work in its energy division, where simulation software supports nuclear engineering studies.
 
 I contribute to [SALOME](https://www.salome-platform.org), the open-source numerical simulation
 platform co-developed by CEA and EDF, working on meshing plugins, post-processing, performance and robustness.
