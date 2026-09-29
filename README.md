@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Nicolas 
 
-<!--
-**NicolasSaikaly/NicolasSaikaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apprentice software engineer at **CEA Paris-Saclay** and engineering student in
+**Computer Science and Applied Mathematics** at **Polytech Paris-Saclay** (2025–2028).
 
-Here are some ideas to get you started:
+I contribute to [SALOME](https://www.salome-platform.org), the open-source numerical simulation
+platform co-developed by CEA and EDF: meshing plugins, post-processing, performance and robustness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Merged contributions to [SalomePlatform](https://github.com/SalomePlatform) — cancel mechanism, Python API & tests, dump study, C++ Geogram → MED converter
+-  Portfolio of my apprenticeship: [CEA-apprenticeship](https://github.com/NicolasSaikaly/CEA-apprenticeship)
+-  Work account used for SALOME contributions: [@Nicolas-Saikaly](https://github.com/Nicolas-Saikaly)
+
+**Stack:** Python · C++ · PyQt · CMake · MEDCoupling · VTK / ParaView · Git · Linux
+
+ [LinkedIn](https://www.linkedin.com/in/nicolas-saikaly)
